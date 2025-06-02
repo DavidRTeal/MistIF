@@ -18,8 +18,28 @@ Some shed fur is scenery in the Giant Dog House. "Tufts of massive dog fur cling
 The giant chew toy is a weapon in the Giant Dog House.
 
 [Bunker]
-A dented locker is in the Bunker. "A gray metal locker with a crooked door stands against the wall."
+A dented locker is a container in the Bunker. "A gray metal locker with a crooked door stands against the wall."
+A pair of blue jeans is in the dented locker. The jeans are wearable. The description is "Standard issue vault utility pants with reinforced knees."
 
+After examining the jeans:
+	if the player is not wearing the jeans:
+		say "Your bare legs feel the bunker's chill as you look at these. They'd definitely help cover your... situation.";
+	otherwise:
+		say "At least you're no longer pantless. These have decent pockets too.";
+		
+[Tutorial Room] 
+The holographic dummy is a targetable person in the Tutorial Room. 
+"A shimmering combat simulation that reforms after each strike."
+Health is 30 HP. Maximum health is 30 HP.
+
+[ Training Weapons ]
+The training sword is a sharp weapon in the Tutorial Room. 
+"A blunt-edged metal sword with safety padding." 
+Damage potential is 1d6.
+
+The training club is a blunt weapon in the Tutorial Room. 
+"A foam-covered baton that still packs a wallop." 
+Damage potential is 1d8.
 
 [Player stuff]
 The player is in the Giant Dog House.
