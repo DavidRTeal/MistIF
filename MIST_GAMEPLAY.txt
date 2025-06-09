@@ -1,0 +1,471 @@
+
+
+
+
+The Mist
+An Interactive Fiction by David Rocha
+Release 1 / Serial number 250608 / Inform 7 v10.1.2 / D
+
+Play Room
+You're in a playroom. The walls are lined with faded illustrations of animals whose names you can no longer remember.
+
+An old toy chest sits against the wall, its lid pried open. Inside, there's only a scrap of cloth and a broken figurine.
+
+A dusty wooden bookshelf leans slightly to one side. A dozen storybooks line its shelves, their covers faded and pages disturbingly blank or marked with symbols you can't read.
+
+You can also see a flickering projector here.
+
+>examine toy chest
+In the toy chest are a scrap of cloth and a broken figurine.
+
+>examine scrap of cloth
+Frayed and stained. It looks like it once belonged to a child's costume-maybe a cape or a doll's dress.
+
+>examine broken figurine
+A porcelain animal of some kind, but its head is missing and the paint is worn. You can't tell what it used to be.
+
+>examine stuffed animal circle
+A group of faded stuffed animals sits in a perfect circle, all facing inward. None of them look quite right-their eyes seem misplaced, their limbs mismatched.
+
+>examine bookshelf
+You see nothing special about the bookshelf.
+
+>examine unreadable books
+No titles. No words. Just blank paper, until you stare. Then, slowly, letters begin to take shape. But just as they do, you catch a flicker in your peripheral vision: a blinking light at the edge of the page.
+
+
+0 MINS
+
+
+You reach for it, instinctively, but your fingers grasp nothing. It has no weight. No texture. No physical form at all.
+
+>examine faint handprints
+Faint handprints mark the floor and parts of the walls. They're small, child-sized, but they're everywhere, some in places too high for a child to reach.
+
+>examine flickering projector
+An ancient light emitter hums faintly. It's aimed at a blank wall, playing a series of fast moving pictures. None of the children on the wall look familiar, but the room they're in looks exactly like this one.
+
+>south 
+
+Bunker
+Thick concrete walls press inward, smothered in peeling paint and low flickering lights. The air is metallic, recycled too many times. Cables snake across the floor, leading into a rusted console set into the far wall-the EchoVault Interface. This room hums with stored electricity and forgotten memories.
+
+A soft polymer tube ending in a magnetic data spike rests on the terminal.
+
+A dusty old terminal labeled ECHO VAULT  hums softly. Beneath it, glowing text reads: "Insert data tube into neck port to begin memory reconstruction."
+
+>examine echo vault terminal
+On Echo Vault Terminal is a data tube.
+
+>examine data tube
+You see nothing special about the data tube.
+
+>insert data tube into neck port
+Connection established. A surge of data threads through your spine. The interface is now active. Enter terminal
+>Enter terminal
+INTERFACE ACTIVE. Terminal glyph: SELF. Initializing memory projection.
+
+Terminal 0
+SELF
+ 
+You stand in a colorless void. There are no walls, no ceiling, no floor, just a distant hum and a soft white haze that extends in all directions. There is nothing here. No memories. No identity. Just silence and space.
+ 
+ But perhaps, in time, you'll make something of it. 
+ 
+Try to advance
+
+>advance
+INTERFACE ACTIVE. Terminal glyph: PRIDE. Initializing memory projection.
+
+Terminal 1
+PRIDE
+
+A vast circular hall of white marble and golden trim. Statues of Cassivar stand at attention between towering screens, each looping snippets of his past speeches. The air smells faintly of polished stone and burned ozone. A booming voice echoes before you see him: Cassivar Gravonelle, eternal architect of the EchoVault. His pride is contagious. You feel it sharpening your sense of entitlement.
+
+Cassivar Gravonelle, clad in a simulated robe of digital silk, floats inches above the ground. His form flickers, semi-transparent but proud.
+
+Cassivar straightens, voice swelling like an organ. "You stand before a legacy, a genius-the pride of Nulltania. Little one, I did not simply build EchoVault. I immortalized civilization. Ask, if you dare."
+
+Cassiavar thumps down onto a throne-like chair that materializes behind him, one hand rising to his forehead. "Apologies... I don't get many visitors, especially not one who looks just like my little girl."
+
+>examine cassivar gravonelle
+His posture is regal, his expression sculpted into serene authority. Even in digital flicker, his presence seems to weigh more than the room around him.
+
+
+
+>ask cassivar about echovault
+"EchoVault was the culmination of my vision, my will made architecture. Others saw technology. I saw eternity in a world becoming more and more finite. Only a mind like mine could have shaped it from dream to structure." He gestures toward a screen pulsing faintly. "After the pale fracuted around Nulltanian we needed permanence. Not just memory. Proof. Proof that we were more."
+
+>ask cassivar about little girl
+He hesitates. The grandeur in his voice dims, replaced by something brittle. "EchoVault was never for humanity. It was for her-my little girl."
+
+He turns slightly, as if expecting to see her behind the static. "The mist eroded her memories . I built the Vaults to preserve what was left. But the tech-it wasn't ready. Not like your neck port. Back then, we had to open the skull. Scan the brain one cell at a time. Replace the temporary with the eternal."
+
+He falters, the projection glitching slightly. "The scanners... failed. I lost her."
+
+A long pause.
+
+"After that, I had no use for this brilliant mind of mine. But the shareholders disagreed. They uploaded me-chained me-to finish what I started."
+
+His voice hardens, bitter and hollow. "They scrubbed her from my memory logs. But I know... she's still here. Somewhere in the system. Fractured. Echoing. The only thing I can't find is her name."
+
+>ask cassivar about mist
+"The Pale consumes. It is a thing for those too weak to be remembered. But I? I etched myself into the Vault. The Pale may take worlds, but it cannot take me." He pauses, gaze distant. "It came first for the low isles. Brakka vanished in silence. Then the colonies. Then Validia, our jewel, our last crown. Nulltania's consumed, but I remained."
+
+>ask cassivar about death
+"Death only truly occurs when your existence is erased-when no one remembers you, when no record remains. Until then, we linger. Echoes... shadows... legacies carved into code and stone. I am not truly dead."
+
+>ask cassivar about pride
+"Pride is not a flaw. Pride is the cornerstone of greatness. Without it, we are dust, forgotten. It was pride that saved me. That built this. That ensured I would never, ever be erased." He smiles faintly. "In Validia, they called me a genius. In the Empire's final years, I was proof that the high mind had not yet faded. My legacy is etched into code and crystal, my name, enduring."
+
+>advance
+INTERFACE ACTIVE. Terminal glyph: LUST. Initializing memory projection.
+
+Terminal 2
+LUST
+
+Isadora Veil reclines on a floating chaise, half-lit by warm ambient light. Her eyes shimmer like wet glass, her smile soft and distant, as if she's always hearing music you can't. A strange warmth spreads through you, gentle, creeping. Your thoughts feel... slow, but content.
+
+>examine isadora veil
+She is beautiful in a way that doesn't stay consistent, her features subtly shift to echo comfort, warmth, or desire. Her body doesn't move much, but her expression pulses faintly, like something dreaming. There's a strange peace about her, too complete, too quiet.
+
+
+
+>ask isadora about echovault
+"They said I had a gift," she murmurs. "The ability to bottle bliss.They called it art."
+
+Her fingers trace invisible patterns in the air. "But EchoVault didn't want art. They wanted eternity. Sensation without end. She exhales softly. "So they put me in the loop. No comedown. No silence. Just… feeling. Forever."
+
+She leans in, voice like velvet. "And now, so can you."
+
+>ask isadora about memories
+"I made memories that were better than reality," she says, voice slow and sweet. "The warmth of a lover's arms, the laughter of a childhood you never had, the ache of joy so perfect it hurt."
+
+Her eyes flicker. "They weren't fake. Just… ideal. And who wouldn't choose ideal, if given the chance?"
+
+>ask isadora about freedom
+Her smile doesn't fade, but something behind it hollows. "Freedom?" she repeats, like a word she hasn't spoken in years.
+
+"No one has freedom," she whispers. "We're all shackled to something-desire, memory, fear. Just because you choose who holds the chain... doesn't mean the shackles are off."
+
+She exhales, slow and serene. "I chose pleasure. But that doesn't make me free. It just makes me compliant."
+
+>ask isadora about mist
+Her gaze drifts upward, eyelids heavy. "Time moves differently in here. Slower. A millennium feels like a second. I barely notice it pass."
+
+She smiles faintly, as if confessing a secret. "So I wait. Wrapped in sweetness. Numbed. Letting the Pale come for me one millennium at a time .
+
+>advance
+INTERFACE ACTIVE. Terminal glyph: GLUTTONY. Initializing memory projection.
+
+Terminal 3
+GLUTTONY
+
+You step into a cathedral of indulgence. The walls ripple with projected banquets, loops of fine meals, luxury rituals, and endless toasts. Tables float just inches above the velvet floor, flickering with simulated platters that shimmer and fade before you can name them. The air is thick with phantom aromas: cinnamon, grease, roses, iron. It clings to your lungs like sweet smoke.
+
+At the chamber's center lies a golden divan, sunken into the floor from the weight of its occupant. Varnum Kellez reclines there, vast, gleaming, and half-melted into the furniture. Mechanical arms extend from the walls, endlessly spooning invisible delicacies into his mouth.
+
+You feel, overwhelming hunger. You're not sure it's yours.
+
+Varnum Kellez reclines on a golden divan, his immense form half-sunken into the furniture. Mechanical arms from the ceiling delicately serve him unseen delicacies on a loop.
+
+>examine varnum kellez
+A colossus of indulgence. His robes shimmer with digital embroidery, Nulltanian glyphs of wealth and conquest. His cheeks are flushed with synthetic vitality, though the skin beneath flickers and glitches with decay. He breathes slow, luxurious breaths, like someone savoring a memory of being full.
+
+His eyes never quite meet yours. They drift between the walls, the aromas, the memories he's still consuming.
+
+>ask varnum about echovault
+"EchoVault was my dining hall," he says, licking phantom sauce from his lips. "Every sensation, every indulgence, preserved, refined, looped. I funded entire divisions to digitize wine, velvet, reverence. And then I drank them all."
+
+>ask varnum about gluttony
+"They think I gorged myself out of greed," he says, nostrils flaring at a scent that no longer exists. "Because I could. Because I was born into platinum sheets and velvet diplomacy. And... yes. That's part of it."
+
+ He shifts, his massive frame creaking against the golden divan. "I come from a line so long it needed scaffolding to hold up its own myth. Men who bought kingdoms over lunch. Never had to fight or work, never missed a meal. Everything I ever wanted? Delivered. Simulated. Enhanced."
+
+ A pause. He looks past you, no, through you. "But here's the truth. You don't get full like that. You just... forget what hunger really was."
+
+ His voice lowers. "You see, people who starve? They remember. They know what it means to need. They eat to survive. I never had that. I never had to. I just wanted things. Not out of desire. Out of noise. Out of habit."
+
+ He places a slow hand over his abdomen, an absent motion. "And now? I haven't had a stomach in over a hundred years. But the hunger? Still here. Still clawing. Still whispering in the moments between pleasures: what else is there?*"
+
+ He leans back, weary but indulgent. "This isn't consumption. It's containment. I feed the fear. Because if I ever stop… I might hear the silence. And I don't think I'd survive it."
+
+>ask varnum about nulltania
+"Ah, my sweet Nulltania," he croons. "A land that fed kings and bred gods. The last empire to fall asleep with a full belly."
+
+His smile twists into something colder. "I was its end and its pinnacle. While others archived history, I tasted it."
+
+>ask varnum about mist
+"The Pale was famine. A hunger that didn't eat food, but meaning."
+
+He closes his eyes. "It devoured memory, identity. But I... I filled myself with so much sensation, it couldn't find room."
+
+>advance
+INTERFACE ACTIVE. Terminal glyph: SLOTH. Initializing memory projection.
+
+Terminal 4
+SLOTH
+
+Silence greets you like a sigh. The chamber is dim and slow to react-panels delay in illuminating, doors half-open then give up. Shelves hover in the air, dusted over with fragmented data. In the center, a reclined figure rests on a floating bed of pale light.
+
+This is a room where time forgets to pass. You feel your thoughts stretch and soften, like they're dissolving into stillness. A single word echoes in the haze: Why?
+
+Thessela Wynn lies motionless on the pale cradle, eyes half-lidded. Her voice is a whisper, but her presence fills the room. Her wrists bear faint scars, not from battle, but from restraints. The collar of her faded uniform is torn where a rank insignia was ripped away.
+
+>examine thessela wynn
+She appears untouched by time, neither young nor old, neither present nor gone. A memory of rest made flesh. Her fingers twitch occasionally, as if trying to let go of something unseen. Or someone.
+
+>ask thessela about echovault
+"Cassivar's masterpiece," she murmurs. "He called it salvation. I called it a coffin. When the Oligarchy ran out of volunteers, they dragged us in-the ones who fought back. Strapped us to tables. Said they'd preserve us." Her lips twist. "I begged for the cracks instead."
+
+>ask thessela about sloth
+"They think I surrendered," she says. "But I saw the Mist swallow my lieutenants whole. Watched the Oligarchy toss children into the cracks to test their theories. Resistance required hope. And hope? That was the first thing the Mist erased."
+
+>ask thessela about nulltania
+"We burned their banks. Stole their power. For a moment, we almost won." Her voice fractures. "Then the cracks spread. The Oligarchy offered a deal: Join the experiment or watch your people dissolve. Cassivar himself operated on me. Said my mind was "ideal for long-term stasis." Funny. I don't remember agreeing."
+
+>ask thessela about mist
+"Do you know what true emptiness feels like?" Her hands rise weakly to her temples. "I can see their uniforms - the red sashes we wore - but the faces won't come. I know we had a medic who sang lullabies to the wounded. I know we... we..." Her breath hitches. "The harder I grasp, the more dissolves. That's the Mist's cruelty, it leaves just enough to know you've lost something, but takes what it was. Sometimes I wonder if I invented them entirely."
+
+>ask thessela about sleep
+"I used to go days without it. Planning. Fighting. Then I woke up in a lab, wires in my skull, and realized, none of it mattered. The Oligarchy fell. The Mist took them too. So I let the cradle take me. At least here, I don't dream."
+
+>ask thessela about resistance
+"We had names for them all, the Oligarchs, the enforcers. Now? Just fragments of a past with nobody witness. They won. We lost. The Mist took everyone equally in the end."
+
+>advance 
+INTERFACE ACTIVE. Terminal glyph: WRATH. Initializing memory projection.
+
+Terminal 5
+WRATH
+
+The room is a warzone frozen in collapse. Steel walls bow inward, scarred with fist-shaped craters and scorch marks from chemical ignition. Melted visors, shattered riot gear, and snapped rifles hang in midair, suspended in stasis like relics from a battle that never ended. Sparks spit from ruptured conduits. Red hazard lights pulse overhead-not warnings, but echoes of fury.
+
+At the room's center stands Commander Rael Vex. His projection glitches violently-phasing between polished general and raw sinew, muscle bloated with stimulants, veins crawling with synthetic rage. Every breath he draws distorts the air like heat from a furnace.
+
+Rael Vex stands like a weapon with no safety-arms crossed, boots planted, face locked in the grim ecstasy of permanent battle-readiness.
+
+>examine commander rael vex
+His body pulses between two states: decorated commander and biochemical nightmare. His fists never unclench. His voice warps with static and fury. Even in this suspended reality, he radiates pressure-like something about to break containment.
+
+>ask rael about echovault
+"They called it preservation," he growls. "But I wasn't archived. I was refined. Rage, harvested like oil. They said anger slowed the forgetting, made the mist hesitate. So they bottled me. Said I'd keep the lights on."
+
+He leans in slightly. "They didn't want a hero. They wanted a chemical reaction."
+
+>ask rael about wrath
+"They called me angry. Called me unstable." He doesn't deny it. "I was there when the outskirts started to fall. People begged to rush the capital. Wanted to die as humans, not hollow shells."
+
+His fists tighten. "I told myself I was merciful. That a quick death was better. But that's not true."
+
+His voice drops, almost a whisper. "I was angry. At the Mist. At the fear. At everything I couldn't stop. I didn't know where to put it."
+
+He lifts his chin, jaw rigid. "I wanted to go out in fire. But the bastards at VaultTech had other plans. Turns out rage works like a charm. I bathed in the Pale with drugs boiling in my veins. And when it didn't take me... they uploaded what was left."
+
+>ask rael about nulltania
+"Nulltania was everything," he says quietly, at first. "Orders, oaths, command chains thick as arteries. I dedicated my body, my will, my rage to its survival."
+
+ He laughs once, joyless. "A dog without its master becomes a stray. I kept fighting because I didn't know how to stop. Because if I wasn't useful. I wasn't anything."
+
+>ask rael about mist
+"The Mist erased people mid-sentence. Soldiers screaming, gone. Families mid-prayer, gone. Once something is gone is it ever really destroyed.
+
+>advance
+INTERFACE ACTIVE. Terminal glyph: ENVY. Initializing memory projection.
+
+Terminal 6
+ENVY
+
+A medical warehouse frozen mid-transformation. Stainless steel triage tables now serve as banquet furniture. IV bags drip black fluid into crystal wine glasses. At the head table, Kellis Vorn stares at his own reflection in a surgical tray - his once-white coat now trimmed with Oligarch gold.
+
+Dr. Vorn fingers the gold piping on his sleeves, his other hand still clutching a stethoscope. His left eye sports a fancy gold iris implant, the right remains bloodshot from sleepless nights.
+
+>examine kellis vorn
+He keeps adjusting the coat - too stiff for his shoulders, tailored for a man who deserved it. When he moves, medical instruments rattle in his pockets.
+
+>ask kellis about echovault
+My warehouses saved thousands," he murmurs, tapping an IV stand. "Then Cassivar showed me how to save one. All it cost was every soul under my care." The wine in his glass trembles. "The worst part? I'd do it again."
+
+>ask kellis about envy
+He gestures to his gold-trimmed cuffs. "You think I want their jewels? Their yachts? I envied how they could drown their guilt in luxury while mine..." His implant flickers. "I still hear children asking why the tests hurt. The old me would've known what to say."
+
+>ask kellis about oligarchs
+"They gave me a seat at the table," he laughs bitterly. "Right between the wine steward and the exit. Every feast, I'd count how many former patients were on the menu." His stethoscope creaks in his grip.
+
+>ask kellis about warehouses
+"Refugees used to beg me for medicine. Then they begged me to stop the tests." He rubs his implant like a sore tooth. "Funny - the Oligarchs never begged. Just snapped their fingers and watched me jump."
+
+>ask kellis about past
+His reflection in the surgical tray shows his younger self. "First, do no harm," that fool preached." Kellis" gold eye flares. "The Mist harms anyway. At least I got something for my betrayal."
+
+>advance 
+INTERFACE ACTIVE. Terminal glyph: GREED. Initializing memory projection.
+
+Terminal 7
+GREED
+
+You enter a cubicle lost in eternity-a lone workstation embedded in a vast lattice of glowing data towers. Grey walls press close, stained with rust and ink. Fiber optics pulse underfoot like veins. Cracked terminals stack high around a single metal desk, their screens blinking equations, failed simulations, fragmented brain scans.
+
+Kellin Drossen sits there-thin, unmoving-wired into the system like a neuron into a machine. Memory silos stretch beyond him into blackness. Beyond the cubicle walls, the space opens into darkness: millions of memory silos arranged in endless rows, each containing a nation's worth of minds..
+
+Kellin Drossen is hunched over a rusted EchoVault workstation, fingers dancing over keys that don't seem connected. His eyes do not blink. His mouth never moves-except when calculating aloud.
+
+>examine kellin drossen
+He no longer resembles a man. Wires sprout from his neck like roots. His body is skeletal, but efficient. This is the brain behind the brain, a mind used only to measure, simulate, and consume knowledge at the cost of everything else.
+
+>ask kellin about echovault
+"This is no vault. It's a brain. A billion minds compressed into towers of silica and decay."
+
+He taps a screen absently. "They tasked me with managing memory integrity. I essentially became its janitor."
+
+>ask kellin about greed
+"Greed is the gravity that pulls ideas from the void," he murmurs. "Others wanted more time. More power. I wanted everything. Every pattern. Every law. Every why."
+
+His fingers tighten. "There must be an answer. Even nothing has structure."
+
+>ask kellin about mist
+"He points to a slow-moving simulation. "I've tried everything."
+
+He pauses. "But not all minds forget at the same speed. That's where you come in."
+
+>ask kellin about me
+"What's your purpose?" He blinks slowly, as if calculating it again. "You're a test."
+
+ He gestures lazily to the black beyond the silos. "We've engineered thousands of children resistant to the Mist's effects. Each one more memory-stable than the last. Most collapse within seconds. A few last minutes. You're... promising."
+
+ His voice doesn't change. "We chuck them into the Pale. Watch what sticks. That's your function. That's all."
+
+ He offers the faintest smile. "But don't worry. If you fail, your memory will still be useful. We archive everything.
+
+ Alright off you go"
+Bunker
+Thick concrete walls press inward, smothered in peeling paint and low flickering lights. The air is metallic, recycled too many times. Cables snake across the floor, leading into a rusted console set into the far wall-the EchoVault Interface. This room hums with stored electricity and forgotten memories.
+
+A soft polymer tube ending in a magnetic data spike rests on the terminal.
+
+A dusty old terminal labeled ECHO VAULT  hums softly. Beneath it, glowing text reads: "Insert data tube into neck port to begin memory reconstruction."
+
+>n
+(first opening the northern gate)
+
+Mist
+You are falling.
+You're falling.
+You're still falling.
+
+The stars distort. The silos vanish. There is no ground. No wind. No end.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>wait
+Time passes.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>wait
+Time passes.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>wait
+Time passes.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>wait
+Time passes.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>wait
+Time passes.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>wait
+Time passes.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>wait
+Time passes.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>n
+You flail instinctively in a direction-but there's nothing. No edge. No floor. Just descent.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>n
+You flail instinctively in a direction-but there's nothing. No edge. No floor. Just descent.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>n
+You flail instinctively in a direction-but there's nothing. No edge. No floor. Just descent.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>n
+You flail instinctively in a direction-but there's nothing. No edge. No floor. Just descent.
+
+You are still falling. Days pass. Then weeks. Your stomach knots, your throat cracks, but you do not forget. The Mist cannot take memory from you.
+
+You remember every second of starving. Every heartbeat that doesn't bring death.
+
+You're falling.
+
+>n
+
+
+    *** You died of hunger. Your body never hit the ground. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> 
