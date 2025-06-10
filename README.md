@@ -5,8 +5,7 @@
 A psychological horror interactive fiction game exploring memory, identity, and the seven deadly sins through a dystopian sci-fi lens. The player navigates the EchoVault - a digital archive of fragmented personalities resisting an all-consuming "Mist".
 
 ## Key Features  
-- **7 Terminal Rooms**: Each representing a deadly sin with unique characters  
-- **Memory Fragmentation Mechanics**: Progressive revelation of backstory  
+- **7 Terminal Rooms**: Each representing a deadly sin with unique characters   
 - **Emily Short's Screen Effects**: Enhanced text formatting for atmosphere  
 - **Nonlinear Narrative**: Discover the truth about Nulltania's fall  
 
